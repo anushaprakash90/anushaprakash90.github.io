@@ -10,6 +10,8 @@ pdf: 'https://anushaprakash90.github.io/files/Interspeech_2020.pdf'
 citation: 'Anusha Prakash and Hema A. Murthy, "Generic Indic Text-to-Speech Synthesisers with Rapid Adaptation in an End-to-End Framework", in Proc. Interspeech, 2020, 2962-2966, doi: 10.21437/Interspeech.2020-2663.'
 ---
 
+<!--
+
 [Download paper here](https://anushaprakash90.github.io/files/Interspeech_2020.pdf){:target="_blank"}
 <div> 
 <div id="adobe-dc-view" style="width: 100%;"></div> 
@@ -24,3 +26,5 @@ metaData:{fileName: "Interspeech_2020.pdf"}
 });
 </script>
 </div>
+
+-->
