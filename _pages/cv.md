@@ -33,7 +33,7 @@ Work experience
  <!-- * <details> <summary>Click to see the full list of projects assisted!</summary><pre> [Apr 2022 - Jun 2022] _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India. <br> [Apr 2020 - Mar 2022] _Automatic Speech Recognition in Indian English, Tamil, Hindi, and Text to Speech Synthesis for conversational speech in Indian languages (as part of National Language Translation Mission Pilot)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India. <br> [Apr 2020 - Mar 2022] _Speech to Speech Machine Translation_, funded by the Office of the Principal Scientific Adviser (PSA), Govt. of India. <br> [Apr 2020 - Feb 2021] _Text to Speech Generation with chosen accent and noise profile for Aerospace and Industrial domains_, funded by the Department of Science and Technology (DST), Govt. of India. </pre></details> -->
 * **Project Officer** @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Jun 2014 - Jun 2017]
   * _Development of Text to Speech systems for Indian languages_, funded by the Department of Information Technology, Govt. of India
-* **Project Officer** @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Jul 2012 - Mat 2014]
+* **Project Associate** @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Jul 2012 - Mat 2014]
   * _Development of Text to Speech systems for Indian languages_, funded by the Department of Information Technology, Govt. of India
 
 Skills
