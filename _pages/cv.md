@@ -52,7 +52,7 @@ Select Publications
   {% endfor %}</ul>
   
 
-Service and Achievements
+Achievements
 ======
 * Accepted to the **ICASSP Rising Stars in Signal Processing Workshop, 2023**, and presented thesis work on _"Developing End-to-End Speech Synthesis Systems for Indian Languages"_.
 * Accepted to the **Doctoral Consortium Workshop, INTERSPEECH, 2019**, and presented work on _"End-to-End Speech Synthesis for Indian Languages"_.
