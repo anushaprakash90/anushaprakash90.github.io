@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Selected and recent publications are given here. The complete list of my articles are available on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">Selected and recent publications are given here. The complete list of my articles are available on <a href="https://scholar.google.com/citations?user=2r9mCcgAAAAJ&sortby=pubdate">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
