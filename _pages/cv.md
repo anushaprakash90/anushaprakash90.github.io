@@ -45,7 +45,7 @@ Skills
 * Speech singal processing
 * Deep learning models for speech
 
-Publications
+Select Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
