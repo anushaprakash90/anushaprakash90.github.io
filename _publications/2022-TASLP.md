@@ -10,6 +10,8 @@ pdf: 'https://anushaprakash90.github.io/files/TASLP_2022.pdf'
 citation: 'Anusha Prakash and Hema A. Murthy, "Exploring the Role of Language Families for Building Indic Speech Synthesisers", in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 31, pp. 734-747, 2023, doi: 10.1109/TASLP.2022.3230453.'
 ---
 
+<!--
+
 [Download paper here](https://anushaprakash90.github.io/files/TASLP_2022.pdf){:target="_blank"}
 <div> 
 <div id="adobe-dc-view" style="width: 100%;"></div> 
@@ -24,3 +26,5 @@ metaData:{fileName: "TASLP_2022.pdf"}
 });
 </script>
 </div>
+
+-->
